@@ -1,16 +1,2 @@
-# java
-*.class
-
-# mvn
-target/
-
-# eclipse
-.classpath
-.project
-.settings/
-
-# idea
-.idea/
-*.iml
-
-dependency-reduced-pom.xml
+*.swa
+*.swp
